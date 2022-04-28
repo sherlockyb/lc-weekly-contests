@@ -1,4 +1,4 @@
-package lc.weekly.contests.w289.calculateDigitSumOfAString;
+package org.sherlockyb.lc.weekly.contests.w289.calculateDigitSumOfAString;
 
 /**
  * @author sherlockyb
